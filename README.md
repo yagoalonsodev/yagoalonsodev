@@ -20,7 +20,7 @@ I currently live in Barcelona, Spain. 🇪🇸​
 
 
 
-
+![gif programando](https://github.com/yagoalonso1/yagoalonso1/blob/main/programming.gif)
 You can find me on:
 
 
