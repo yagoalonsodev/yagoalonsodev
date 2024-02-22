@@ -1,4 +1,4 @@
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.arnabghosh.me%2Fadd-github-dark-snake-animation-readme&psig=AOvVaw21rj-nhbbJYu7Lf2byKpTi&ust=1708677443387000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjStdLFvoQDFQAAAAAdAAAAABAE)[gif snake]
+![gif snake program](https://github.com/yagoalonso1/yagoalonso1/blob/main/zZbL8WM2v.gif)
 ### Hi there 👋
 Hey! I'm @yagoalonso1 (Yago Alonso) 👋
 I'm a Multiplatform Application Development from Spain. 🇪🇸​
