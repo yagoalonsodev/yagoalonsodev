@@ -1,31 +1,64 @@
-
 ![gif snake program](https://github.com/yagoalonso1/yagoalonso1/blob/main/zZbL8WM2v.gif)
-### Hi there 👋
-Hey! I'm @yagoalonso1 (Yago Alonso) 👋
-I'm a Multiplatform Application Development from Spain. 🇪🇸​
 
-I currently live in Barcelona, Spain. 🇪🇸​
+# 👨‍💻 Yago Alonso
 
-**Exploring Platforms:** I love immersing myself in the world of operating systems, understanding their nuances, and discovering how to develop applications that make the most of each one.📱
+**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
+**Especializado en Big Data e Inteligencia Artificial**  
+📍 Barcelona, España  
+[![Twitter](https://img.shields.io/badge/Twitter-@yagoalonso_-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yagoalonso_)  
+[![GitHub](https://img.shields.io/badge/GitHub-@yagoalonso1-181717?logo=github&logoColor=white)](https://github.com/yagoalonso1)  
+[![Instagram](https://img.shields.io/badge/Instagram-@yagoalonso__-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yagoalonso__)
 
-**Mastering Programming Languages:** I'm excited about mastering languages like Java, HTML, CSS, and others, knowing that these skills will lead me to create powerful and effective software.💻 
+---
 
-**Adopting Best Development Practices:** I strive to apply agile methodologies, ensuring that my projects are developed efficiently, with a focus on quality and collaboration.🛠️ 
+## 🧠 Sobre mí
 
-**Working with Databases:** I am committed to learning to design, implement, and maintain SQL databases, understanding how to manage information effectively in my applications.📊 
+Soy un desarrollador apasionado por la tecnología, con formación técnica especializada y una clara orientación hacia la innovación, el análisis de datos y la inteligencia artificial.
 
-**Creating Web and Mobile Applications:** I enjoy exploring the creation of attractive and functional user interfaces, whether for web browsers or mobile devices, using technologies like HTML, CSS, and JavaScript.🌐 
+Me dedico al desarrollo de aplicaciones multiplataforma, explorando constantemente nuevas herramientas, frameworks y metodologías que me permiten crear soluciones funcionales, eficientes y escalables. Siempre busco retos que me impulsen a seguir creciendo como profesional.
 
-**Exploring the Latest Technologies:** I am passionate about staying up-to-date with the latest trends in software development, from artificial intelligence to cloud computing, always seeking opportunities to grow and learn more.🔧 
+---
 
-**Constantly Challenging Myself:** I am driven by the pursuit of challenges that expand my knowledge and skills, whether through personal projects, programming challenges, or participation in technology communities.🌟 
+## 💼 Especialidades
 
+- **Desarrollo Multiplataforma:** Aplicaciones móviles, de escritorio y web con enfoque en UX/UI y rendimiento.
+- **Big Data:** Tratamiento y análisis de grandes volúmenes de datos con herramientas como Apache Spark, Hadoop o bases de datos NoSQL.
+- **Inteligencia Artificial:** Implementación de modelos de machine learning y deep learning para tareas de predicción, clasificación o automatización.
+- **Bases de Datos:** Diseño, modelado y gestión eficiente de bases de datos relacionales (SQL) y no relacionales (MongoDB, Firebase).
+- **Programación:** Java, Kotlin, Python, JavaScript, HTML5, CSS3, SQL, entre otros.
+- **Metodologías Ágiles:** SCRUM, Kanban, integración y entrega continua (CI/CD).
+- **DevOps & Cloud:** Familiarizado con herramientas como Git, Docker y plataformas cloud como AWS o Azure.
 
+---
+
+## 🚀 Filosofía de trabajo
+
+- 🔍 **Precisión y claridad:** Cada línea de código debe tener un propósito.
+- 💡 **Aprendizaje constante:** La tecnología avanza, y yo también.
+- 🤝 **Trabajo en equipo:** La colaboración y la comunicación son claves del éxito.
+- 🧩 **Solución de problemas:** Me apasionan los retos que requieren creatividad y lógica.
+
+---
+
+## 📚 Últimos proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **GoTApp** | App de personajes de Game of Thrones usando API REST y Jetpack Compose. | Kotlin, Retrofit, Compose |
+| **Reserva d'Hotel** | Sistema MVC de reservas de hotel con JavaFX y FXML. | Java, JavaFX, FXML |
+| **Swiftari** | Juego arcade tipo Atari creado en SwiftUI. | Swift, SwiftUI |
+| **El Banco de Yago** | Aplicación bancaria con historial, autenticación y cambio de divisas. | Java, FXML, CSS |
+
+---
+
+## 📫 ¿Dónde encontrarme?
+
+- 🐦 [Twitter - @yagoalonso_](https://twitter.com/yagoalonso_)
+- 💻 [GitHub - @yagoalonso1](https://github.com/yagoalonso1)
+- 📸 [Instagram - @yagoalonso__](https://instagram.com/yagoalonso__)
+
+---
 
 ![gif programando](https://github.com/yagoalonso1/yagoalonso1/blob/main/programming.gif)
-You can find me on:
 
-
-Twitter as @yagoalonso_
-GitHub as @yagoalonso1 (you are here)
-Instagram as @yagoalonso__
+> “La mejor forma de predecir el futuro es crearlo.” – Alan Kay
