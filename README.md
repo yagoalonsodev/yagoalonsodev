@@ -2,52 +2,43 @@
 
 # 👨‍💻 Yago Alonso
 
-**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-**Especializado en Big Data e Inteligencia Artificial**  
-📍 Barcelona, España  
+**Data Engineering & Backend Development**
+
+🚀 Construyendo plataformas de datos end-to-end  
+📍 Barcelona, España
+
 [![Twitter](https://img.shields.io/badge/Twitter-@yagoalonso_-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yagoalonso_)  
 [![GitHub](https://img.shields.io/badge/GitHub-@yagoalonso1-181717?logo=github&logoColor=white)](https://github.com/yagoalonso1)  
 [![Instagram](https://img.shields.io/badge/Instagram-@yagoalonso__-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yagoalonso__)
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Tech Stack
 
-Soy un desarrollador apasionado por la tecnología, con formación técnica especializada y una clara orientación hacia la innovación, el análisis de datos y la inteligencia artificial.
-
-Me dedico al desarrollo de aplicaciones multiplataforma, explorando constantemente nuevas herramientas, frameworks y metodologías que me permiten crear soluciones funcionales, eficientes y escalables. Siempre busco retos que me impulsen a seguir creciendo como profesional.
-
----
-
-## 💼 Especialidades
-
-- **Desarrollo Multiplataforma:** Aplicaciones móviles, de escritorio y web con enfoque en UX/UI y rendimiento.
-- **Big Data:** Tratamiento y análisis de grandes volúmenes de datos con herramientas como Apache Spark, Hadoop o bases de datos NoSQL.
-- **Inteligencia Artificial:** Implementación de modelos de machine learning y deep learning para tareas de predicción, clasificación o automatización.
-- **Bases de Datos:** Diseño, modelado y gestión eficiente de bases de datos relacionales (SQL) y no relacionales (MongoDB, Firebase).
-- **Programación:** Java, Kotlin, Python, JavaScript, HTML5, CSS3, SQL, entre otros.
-- **Metodologías Ágiles:** SCRUM, Kanban, integración y entrega continua (CI/CD).
-- **DevOps & Cloud:** Familiarizado con herramientas como Git, Docker y plataformas cloud como AWS o Azure.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
+[![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
-## 🚀 Filosofía de trabajo
+## 👨‍🎓 Formación
 
-- 🔍 **Precisión y claridad:** Cada línea de código debe tener un propósito.
-- 💡 **Aprendizaje constante:** La tecnología avanza, y yo también.
-- 🤝 **Trabajo en equipo:** La colaboración y la comunicación son claves del éxito.
-- 🧩 **Solución de problemas:** Me apasionan los retos que requieren creatividad y lógica.
+- **Ingeniería Informática** (en curso) — UOC  
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** (DAM)  
+- **Máster en Big Data e Inteligencia Artificial**
 
 ---
 
-## 📚 Últimos proyectos destacados
+## 📊 Featured Project
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **GoTApp** | App de personajes de Game of Thrones usando API REST y Jetpack Compose. | Kotlin, Retrofit, Compose |
-| **Reserva d'Hotel** | Sistema MVC de reservas de hotel con JavaFX y FXML. | Java, JavaFX, FXML |
-| **Swiftari** | Juego arcade tipo Atari creado en SwiftUI. | Swift, SwiftUI |
-| **El Banco de Yago** | Aplicación bancaria con historial, autenticación y cambio de divisas. | Java, FXML, CSS |
+### [E-commerce Data Engineering Project](https://github.com/yagoalonsodev/ecommerce-data-engineering-project)
+
+Plataforma de ingeniería de datos end-to-end para e-commerce: pipelines ETL con Pandas y PySpark, modelo dimensional en PostgreSQL (Neon), API REST con Flask, dashboard en React (Vite + Tailwind + Recharts), tests con cobertura y CI/CD. Desplegado en Netlify (frontend) y Vercel (backend).
 
 ---
 
@@ -61,4 +52,4 @@ Me dedico al desarrollo de aplicaciones multiplataforma, explorando constantemen
 
 ![gif programando](https://github.com/yagoalonso1/yagoalonso1/blob/main/programming.gif)
 
-> “La mejor forma de predecir el futuro es crearlo.” – Alan Kay
+> "La mejor forma de predecir el futuro es crearlo." — Alan Kay
