@@ -2,7 +2,7 @@
 
 **Junior Developer · Java · IA aplicada · Data Engineering**
 
-Desarrollo en Java (Spring Boot) y Python. Proyectos de IA: ML (TensorFlow), agentes con LangGraph y uso de LLMs (Claude, ChatGPT).  
+Desarrollador junior especializado en Java (Spring Boot) y soluciones basadas en IA y GenAI. Experiencia en APIs REST, Angular y React, con conocimientos en LLMs, LangChain, LangGraph y preparación de datos para ML.  
 Máster en IA y Big Data (La Salle) · Grado en Ing. Informática (UOC) · Barcelona 🇪🇸 · English B1
 
 ## Proyectos destacados
@@ -21,21 +21,22 @@ ETL end-to-end, API Flask, dashboard React, tests y CI/CD · [Demo](https://ecom
 
 ## Stack
 
-**Java:** Java, Spring Boot  
-**IA:** TensorFlow, LangChain, LangGraph, LLMs  
-**Data:** Python, PySpark, Airflow, PostgreSQL  
+**Backend:** Java, Spring Boot, Python, Flask, Node.js  
+**IA:** LLMs, LangChain, LangGraph, RAG, TensorFlow, GenAI  
+**Data:** PySpark, Airflow, Pandas, PostgreSQL, MySQL  
+**Frontend:** Angular, React  
 **DevOps:** Docker, GitHub Actions, AWS S3
 
 ## Formación
 
-- Máster IA y Big Data — La Salle Gràcia (2025–2026)
-- Grado Ing. Informática — UOC (en curso)
-- DAM — La Salle Gràcia (2023–2025)
+- Máster en IA y Big Data — La Salle Gràcia (sept 2025 – jun 2026, finalizado)
+- Grado en Ing. Informática — UOC (sept 2025 – jun 2029, en curso)
+- DAM — La Salle Gràcia (sept 2023 – jun 2025)
 
 ## Experiencia
 
-- Helpdesk IT (prácticas) — Minsait · Feb–Jul 2025
+- Helpdesk IT (prácticas) — Minsait (Grupo Indra) · feb–jul 2025
 
 ## Contacto
 
-📧 yagoalonsodev@gmail.com · [GitHub](https://github.com/yagoalonsodev)
+📧 yagoalonsodev@gmail.com · [GitHub](https://github.com/yagoalonsodev) · [LinkedIn](https://www.linkedin.com/in/yago-alonso-090372256/)
