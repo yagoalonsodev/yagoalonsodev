@@ -14,9 +14,9 @@ Máster IA y Big Data (La Salle) · Barcelona 🇪🇸
 | Proyecto | Descripción |
 |----------|-------------|
 | [**salle-hospital**](https://github.com/yagoalonsodev/salle-hospital) | TFM: PySpark, Airflow, TensorFlow (RX tórax), Flask, Streamlit, MongoDB, MinIO |
-| [**proyectoRA3**](https://github.com/yagoalonsodev/proyectoRA3) | Airflow + Delta Lake (S3) + NeonDB + agente LangGraph NL→SQL + Streamlit |
+| [**polymarket-data-pipeline-langgraph**](https://github.com/yagoalonsodev/polymarket-data-pipeline-langgraph) | Polymarket: Airflow + Delta Lake (S3) + NeonDB + agente LangGraph NL→SQL + Streamlit |
 | [**ecommerce-data-engineering-project**](https://github.com/yagoalonsodev/ecommerce-data-engineering-project) | ETL end-to-end, star schema, Docker · [Demo](https://ecommerce-etl.netlify.app) |
-| [**matter-auto**](https://github.com/yagoalonsodev/matter-auto) | Automatización catálogos Odoo con LLMs (Ollama/DeepSeek), FastAPI, Docker |
+| [**odoo-catalog-llm-automation**](https://github.com/yagoalonsodev/odoo-catalog-llm-automation) | Automatización catálogos Odoo con LLMs (Ollama/DeepSeek), FastAPI, Docker |
 | [**langgraph-multi-sql-agent**](https://github.com/yagoalonsodev/langgraph-multi-sql-agent) | Agente LangGraph multi-DB: PostgreSQL (Neon) + SQLite, Groq |
 | [**langgraph-sql-agent-hitl**](https://github.com/yagoalonsodev/langgraph-sql-agent-hitl) | Agente SQL con Human-in-the-Loop y guardrails de solo lectura |
 | [**study-rag-pgvector**](https://github.com/yagoalonsodev/study-rag-pgvector) | RAG local: PDFs → pgvector + Ollama, FastAPI, Docker |
