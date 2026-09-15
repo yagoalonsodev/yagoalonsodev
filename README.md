@@ -13,6 +13,7 @@ Máster IA y Big Data (La Salle) · Barcelona 🇪🇸
 
 | Proyecto | Descripción |
 |----------|-------------|
+| [**UrbanFlow**](https://github.com/yagoalonsodev/UrbanFlow-) | Plataforma de Data Engineering end-to-end para movilidad urbana: GTFS/GTFS-RT, PySpark, Kafka, Airflow, MinIO, PostgreSQL, Metabase y agente LangGraph con Ollama y LangSmith |
 | [**salle-hospital**](https://github.com/yagoalonsodev/salle-hospital) | TFM: PySpark, Airflow, TensorFlow (RX tórax), Flask, Streamlit, MongoDB, MinIO |
 | [**polymarket-data-pipeline-langgraph**](https://github.com/yagoalonsodev/polymarket-data-pipeline-langgraph) | Polymarket: Airflow + Delta Lake (S3) + NeonDB + agente LangGraph NL→SQL + Streamlit |
 | [**ecommerce-data-engineering-project**](https://github.com/yagoalonsodev/ecommerce-data-engineering-project) | ETL end-to-end, star schema, Docker · [Demo](https://ecommerce-etl.netlify.app) |
@@ -31,11 +32,12 @@ Máster IA y Big Data (La Salle) · Barcelona 🇪🇸
 
 ## Stack
 
-**Data:** Python, PySpark, Pandas, SQL, PostgreSQL, Airflow, Delta Lake, S3  
-**IA:** LangGraph, LangChain, LLMs, RAG, TensorFlow  
+**Data:** Python, PySpark, Spark Structured Streaming, Pandas, SQL, PostgreSQL, Airflow, Kafka, Delta Lake, S3, MinIO, Parquet  
+**IA:** LangGraph, LangChain, LangSmith, Ollama, LLMs, RAG, TensorFlow  
 **Backend:** Java, Spring Boot, Laravel, Flask, FastAPI  
 **Frontend:** React, Next.js, Angular  
-**DevOps:** Docker, GitHub Actions, MinIO, MongoDB
+**DevOps:** Docker, Docker Compose, GitHub Actions, Git, Cloudflare Tunnel, MongoDB  
+**Analytics:** Metabase
 
 ---
 
